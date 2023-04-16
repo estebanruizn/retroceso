@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">retroceso</string>
+    <string name = "txttitulo1">ACTIVITY 1</string>
+    <string name = "btncambiar">CAMBIAR</string>
+    <string name = "txttitulo2">ACTIVITY 2</string>
+    <string name = "btncambiar2">CAMBIAR</string>
+    <string name = "txttitulo3">ACTIVITY 3</string>
+    <string name = "btncambiar3">CAMBIAR</string>
+    <string name = "btnaccion">Seleccion</string>
+</resources>
